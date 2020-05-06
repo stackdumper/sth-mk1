@@ -1,0 +1,13 @@
+[package]
+name = "st-h1-sim"
+version = "0.1.0"
+authors = ["Ilya Atamas <stackdumper@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nphysics3d = "0.14"
+nalgebra = "0.20"
+ncollide3d = "0.22"
+nphysics_testbed3d = "0.8"
+rand = "0.7"
+noise = "0.6"
